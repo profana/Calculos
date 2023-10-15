@@ -14,6 +14,8 @@ namespace Calculos
 			//testar este programa
 			
 			//Aqui teria de fazer as contas
+			
+			//converter a temperatura
 
             Console.ReadKey();
         }
