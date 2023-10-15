@@ -15,5 +15,9 @@ namespace Calculos
 
             Console.ReadKey();
         }
+		
+		//método subtrair
+		public int subtrair (intx, int y){
+		}
     }
 }
