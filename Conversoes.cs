@@ -24,5 +24,7 @@ namespace Calculos
 		//novo método temperatura
 		public int temperatura (intx, int y){
 		}
+		
+		//adicionar aqui mais um método
     }
 }
