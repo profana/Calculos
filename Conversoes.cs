@@ -6,16 +6,23 @@ using System.Threading.Tasks;
 
 namespace Calculos
 {
-    internal class Program
+    internal class Conversoes
+	//implementa operações aritméticas
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Aplicação Cálculos");
-			//testar este programa
-			
-			//Aqui teria de fazer as contas
 
             Console.ReadKey();
         }
+		
+		
+		//método subtrair
+		public int subtrair (intx, int y){
+		}
+		
+		//novo método temperatura
+		public int temperatura (intx, int y){
+		}
     }
 }
