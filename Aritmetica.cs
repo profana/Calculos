@@ -21,6 +21,8 @@ namespace Calculos
 		public int subtrair (intx, int y){
 		}
 		
-		//novo método
+		//novo método temperatura
+		public int temperatura (intx, int y){
+		}
     }
 }
